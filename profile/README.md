@@ -43,7 +43,7 @@ Stend a donc été créé afin de régler plusieurs problèmes :
 
 ## Dépôts principaux
 
-- [API](https://github.com/hoststend/stend-api) ― [Documentation](https://stend.johanstick.fr/api-docs/selfhost)
-- [Client WEB](https://github.com/hoststend/stend-web) ― [Documentation](https://stend.johanstick.fr/web-docs/selfhost)
-- [Client Mobile](https://github.com/hoststend/stend-mobile) ― [Documentation](https:―/stend.johanstick.fr/mobile-docs/intro)
-- [Client Terminal](https://github.com/hoststend/stend-cli) ― [Documentation](https:―/stend.johanstick.fr/cli-docs/install)
+- [API](https://github.com/hoststend/stend-api) ― [Documentation](https://stend.johanstick.fr/api-docs/intro)
+- [Client WEB](https://github.com/hoststend/stend-web) ― [Documentation](https://stend.johanstick.fr/web-docs/intro)
+- [Client Mobile](https://github.com/hoststend/stend-mobile) ― [Documentation](https://stend.johanstick.fr/mobile-docs/intro)
+- [Client Terminal](https://github.com/hoststend/stend-cli) ― [Documentation](https://stend.johanstick.fr/cli-docs/intro)
