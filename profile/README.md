@@ -4,7 +4,7 @@ Stend est un projet visant à être l'une des meilleures solutions pour configur
 
 Cette organisation contient le code source des différents projets en lien avec Stend, vous pouvez avoir des informations sur chacun d'entre eux via la [documentation](https://stend.johanstick.fr/).
 
-![Accueil](https://stend.johanstick.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstend_web_homedemo.5c70690e.png&w=1920&q=100)
+![Accueil](https://r2.johanstick.fr/illustrationsdevs/stend/stend_web_homedemo.png)
 *illustration : client web*
 
 
