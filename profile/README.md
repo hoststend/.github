@@ -4,8 +4,7 @@ Stend est un projet visant à être l'une des meilleures solutions pour configur
 
 Cette organisation contient le code source des différents projets en lien avec Stend, vous pouvez avoir des informations sur chacun d'entre eux via la [documentation](https://stend.johanstick.fr/).
 
-![Accueil](https://stend-docs.johanstick.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdemo_homepage.90c32aac.png&w=1920&q=75)
-![Téléchargement](https://stend-docs.johanstick.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdemo_downloadPage.5b317e36.png&w=1920&q=75)
+![Accueil](https://stend.johanstick.fr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstend_web_homedemo.5c70690e.png&w=1920&q=100)
 *illustration : client web*
 
 
@@ -44,6 +43,7 @@ Stend a donc été créé afin de régler plusieurs problèmes :
 ## Dépôts principaux
 
 - [API](https://github.com/hoststend/stend-api) ― [Documentation](https://stend.johanstick.fr/api-docs/intro)
+- [Serveur global](https://github.com/hoststend/stend-globalserver) ― [Documentation](https://stend.johanstick.fr/global-server/intro)
 - [Client WEB](https://github.com/hoststend/stend-web) ― [Documentation](https://stend.johanstick.fr/web-docs/intro)
-- [Client Mobile](https://github.com/hoststend/stend-mobile) ― [Documentation](https://stend.johanstick.fr/mobile-docs/intro)
-- [Client Terminal](https://github.com/hoststend/stend-cli) ― [Documentation](https://stend.johanstick.fr/cli-docs/intro)
+- [Client mobile](https://github.com/hoststend/stend-mobile) ― [Documentation](https://stend.johanstick.fr/mobile-docs/intro)
+- [Client terminal](https://github.com/hoststend/stend-cli) ― [Documentation](https://stend.johanstick.fr/cli-docs/intro)
